@@ -12,7 +12,7 @@ same idea and same materials.
 
 •	STM32F4 Discovery board,  WS2812B RGB addressable led strip,	ESP8266  Wifi module are used
 
-The Project Report has all the references, information and the codes that found. Also I am working on my own header-source files.
+All the information,project report,codes that found and the references,will be shared. Also I am working on my own header-source files.
 
 That is an ongoing project!
 	To be continued...
