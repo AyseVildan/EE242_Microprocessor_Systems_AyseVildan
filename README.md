@@ -13,5 +13,6 @@ same idea and same materials.
 •	STM32F4 Discovery board,  WS2812B RGB addressable led strip,	ESP8266  Wifi module are used
 
 According to goals LED stript is worked. (Own library is created)
+
 Unfortunatelly Wifi modul did not worked and it could not be replaced because of the pandemic conditions 
 
